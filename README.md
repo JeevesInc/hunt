@@ -1,4 +1,4 @@
-<img src="run-animals-on-the-loose.gif" width="300" alt="Run Animals on the Loose">
+<img src="assets/run-animals-on-the-loose.gif" width="300" alt="Run Animals on the Loose">
 
 # Hunt
 
@@ -43,6 +43,6 @@ hunt public/locales/en-US/
 hunt public/locales/en-US/ --clear
 ```
 
-<img src="demo.gif" width="500" alt="Demo">
+<img src="assets/demo.gif" width="500" alt="Demo">
 
-<img src="demo-screenshot.png" width="500" alt="Demo Screenshot">
+<img src="assets/demo-screenshot.png" width="500" alt="Demo Screenshot">
